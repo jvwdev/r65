@@ -11,11 +11,3 @@
 1. **Default:**  
    `qmk compile -kb rk/r65 -km default`  
    (No VIA functionality)
-
-2. **VIA Enabled:**  
-   `qmk compile -kb rk/r65 -km via`  
-   (Includes VIA support)
-
-3. **VIA with SOCD [Fn+V to toggle]:**  
-   `qmk compile -kb rk/r65 -km via-socd`  
-   (Includes VIA and SOCD functionality, similar to Razer's Snap Tap and Wooting's SOCD)
