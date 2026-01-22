@@ -10,4 +10,4 @@
 
 1. **Default:**  
    `qmk compile -kb rk/r65 -km default`  
-   (No VIA functionality)
+   (Includes VIA support)

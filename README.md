@@ -3,7 +3,7 @@
 This is ported to the new revision of the R65.
 My R65 came with USB Product ID E508.
 
-No VIA support and all RGB disabled.
+It has VIA support enabled in the default keymap.
 
 ## TODO
 - Encoder up/down (pressing it works)
